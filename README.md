@@ -1,8 +1,8 @@
 <a href="https://github.com/kauanmodolo/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kauanmodolo&show_icons=true&theme=dracula" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=kauanmodolo&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/kauanmodolo/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kauanmodolo&layout=compact&langs_count=8&theme=dracula&card_width=320" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kauanmodolo&layout=compact&langs_count=8&theme=dracula&card_width=320" />
 </a>
 
 <div style="display: inline_block"><br>
